@@ -8,7 +8,7 @@
 - Description
 - Links
 # Education
-- York University
+- Lassonde School of Engineering, B.Sc., Hons. Maj/Min Computer Science & Biology
 # Work History
 - Work place 1
 - Work Place 2
