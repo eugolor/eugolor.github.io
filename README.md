@@ -8,7 +8,7 @@
 - Description
 - Links
 # Education
-- Some University
+- York University
 # Work History
 - Work place 1
 - Work Place 2
