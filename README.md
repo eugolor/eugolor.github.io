@@ -1,6 +1,7 @@
+
+
 # Education
 - Lassonde School of Engineering, B.Sc., Hons. Maj/Min Computer Science & Biology
-
 
 # Projects 
 ### LLM FOR SOFTWARE ENGINEERING
